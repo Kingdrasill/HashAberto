@@ -17,7 +17,7 @@ A tabela hash dupla se diferencia de uma tabela hash normal no caso em que ele n
 <p align="justify">
 O resultados obtidos foram que houve 6 colisões, pelo fato de que a segunda posição calculada já pode ter um valor nela, com as seguintes 20 entradas: <br>14, 38, 8, 14, 9, 28, 37, 43, 6, 22, 21, 39, 42, 43, 12, 7, 22, 50, 38, 4.
 <br><br> Imagem do resultado printado pelo código:
-<p align="center"><img src="imgs/hashfechado.png"></p>
+<p align="center"><img src="imgs/hashaberto.png"></p>
 </p>
 
 # Compilação e Execução
